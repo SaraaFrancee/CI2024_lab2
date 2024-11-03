@@ -18,7 +18,7 @@ In each screenshots they are printed in order:
  * the cost of the MDSA's solution
  * the best solution gained with the SA
 
-** Vanuatu
+## Vanuatu
 restarts: 10 steps: 5
 
 **Italy** restarts: 200 steps: 100
