@@ -20,15 +20,20 @@ In each screenshots they are printed in order:
 
 ### Vanuatu
 restarts: 10 steps: 5
+![Vanuatu](/tsp_images/vanuatu.pgn)
 
 ### Italy 
 restarts: 200 steps: 100
+![Italy](/tsp_images/italy.pgn)
 
 ### Russia
 restarts: 400 steps: 200
+![Russia](/tsp_images/russia.pgn)
 
 ### Us
 restarts: 1000 steps: 500
+![Us](/tsp_images/us.pgn)
 
 ### China
 restarts: 2000 steps: 600
+![China](/tsp_images/china.pgn)
